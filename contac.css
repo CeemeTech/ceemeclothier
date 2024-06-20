@@ -1,0 +1,53 @@
+.slider{
+    background-image:url(img/bck2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+}
+h2{
+    text-align: center;
+    color: lightcoral;
+    font-size: 40px;
+    height: 100px;
+}
+blockquote{
+    text-align: center;
+    color: aquamarine;
+    font-size: 30px;
+}
+.frm{
+    margin: 30px;
+    text-align: center;
+}
+label{
+    color: aquamarine;
+}
+.dt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.size{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.chk{
+    color: aquamarine;
+}
+q{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: yellowgreen;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: darkcyan;
+    margin: 10px;
+    text-align: center;
+    height: 100px;
+    padding: 0 20px;
+    font-size: 50px;
+}
